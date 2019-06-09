@@ -1,0 +1,1 @@
+The codes and software for the papar "Locating potentially lethal genes using the abnormal distributions of genotypes".
